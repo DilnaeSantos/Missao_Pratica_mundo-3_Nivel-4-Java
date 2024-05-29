@@ -1,4 +1,4 @@
-- # 📝 Relatório discente de acompanhamento
+# 📝 Relatório discente de acompanhamento
 
 ## Informações do Curso
 
