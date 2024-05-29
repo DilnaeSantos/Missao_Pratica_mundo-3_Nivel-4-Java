@@ -1,4 +1,4 @@
-📝 Relatório discente de acompanhamento
+- # 📝 Relatório discente de acompanhamento
 
 ## Informações do Curso
 
@@ -13,8 +13,6 @@
 
 - **Nome:** Dilnae Rennan Souza dos Santos
 - **Matrícula:** 202302631631
-
-- # Relatório Discente de Acompanhamento
 
 ## Análise e Conclusão
 
@@ -53,8 +51,6 @@ O NetBeans melhora a produtividade ao fornecer:
 ### Comunicação entre Servlets e Session Beans do Pool de EJBs
 
 A comunicação entre Servlets e Session Beans é realizada através de injeção de dependência usando a anotação `@EJB`. Isso permite que o Servlet chame métodos nos EJBs para realizar operações de negócios.
-
-## Análise e Conclusão
 
 ### Funcionamento do Padrão Front Controller na Arquitetura MVC
 
@@ -96,8 +92,6 @@ A comunicação entre Servlets e Session Beans é realizada através de injeçã
 - **Parâmetros e Atributos**:
   - **Parâmetros**: Dados enviados pelo cliente como parte da URL ou corpo da requisição.
   - **Atributos**: Dados armazenados no objeto `HttpServletRequest` para compartilhar informações entre componentes durante a mesma requisição.
-
-## Análise e Conclusão
 
 ### Utilização do Framework Bootstrap
 
