@@ -7,7 +7,7 @@
 - **Período:** 3º
 - **Turma:** 9001
 - **Tutor:** Jhonatan Alves
-- **Matéria:** Vamos Manter as Informações? (RPG0015)
+- **Matéria:** Vamos Integrar Sistemas (RPG0017)
 
 ## Informações do Aluno
 
